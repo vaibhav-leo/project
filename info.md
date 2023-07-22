@@ -25,3 +25,4 @@ alert(user2[key]);
 // now, if you try to enter "age" or "name" it will give respective output
 
 ```
+- When property names are simple, the dot is used. And if we need something more complex, then we switch to square brackets.
