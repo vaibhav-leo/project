@@ -6,3 +6,5 @@ let user = {
   "likes anime": false
 };
 ```
+- to access these properties we cannot use dot notation like - ``user.likes anime``
+- instead we need to use square brackets - ``user["likes anime"]``
